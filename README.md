@@ -2,10 +2,11 @@
 
 ### Project Overview
 
-This data analysis project aims to provide insights into the sales performance of an Super Store Company over the past year. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
+This data analysis project aims to provide insights into the sales performance of an Super Store Company over the year. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
+
+![Super Store Dashboard](https://github.com/SuryaRyker/My_Work_Sample-Super-Store-Sales/assets/123616124/5c0be025-6dc2-4bc3-a685-d07ab1f55a66)
 
 
-![Super Store Sales](https://github.com/SuryaRyker/My_Work_Sample-Super-Store-Sales/assets/123616124/f218a97e-3566-4c18-bd8e-0876e4f61361)
 
 ### Data Used
 
@@ -19,4 +20,17 @@ This data analysis project aims to provide insights into the sales performance o
 
 ### Data Visualization And Report
 
-The data visualization and report was created using PowerBI
+The data visualization involved exploring the sales data to check sales and profit, such as:
+ - Total sales, total profit and total quantity over the year 2019 to 2020.
+ - Total sales by states in United States.
+ - Total sales Category.
+ - Total Sales by Sub-category and region.
+ - Total sales by Segment.
+ - Profit by Category.
+
+### Results/Findings
+
+The analysis and report results are summarized as follows:
+- The Super Store sales have been steadily increasing over the year.
+- Technology Category is the best in terms of sales and profit.
+- Phones and Chairs are best in sub-category in terms of sales.
