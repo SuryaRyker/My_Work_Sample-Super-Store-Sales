@@ -23,7 +23,7 @@ This data analysis project aims to provide insights into the sales performance o
 The data visualization involved exploring the sales data to check sales and profit, such as:
  - Total sales, total profit and total quantity over the year 2019 to 2020.
  - Total sales by states in United States.
- - Total sales Category.
+ - Total sales by Category.
  - Total Sales by Sub-category and region.
  - Total sales by Segment.
  - Profit by Category.
